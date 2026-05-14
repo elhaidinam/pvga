@@ -1,0 +1,23 @@
+{
+  "name": "PV en Poche GA",
+  "short_name": "PV Poche",
+  "description": "Guide mobile pour les professionnels de la pharmacovigilance.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#008751",
+  "icons": [
+    {
+      "src": "anmaps.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "anmaps.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
